@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">UTS_BotNav&amp;RecView</string>
+    <string name="char_name">Nama Karakter</string>
+    <string name="char_desc">Deskripsi Karakter</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    //nama char
+    <string name="anjing">anjing</string>
+    <string name="ayam">ayam</string>
+    <string name="beruang">beruang</string>
+    <string name="harimau">harimau</string>
+    <string name="jerava">jerava</string>
+    <string name="kucing">kucing</string>
+    <string name="landak">landak</string>
+    <string name="lumba">lumba</string>
+    <string name="monyet">monyet</string>
+    <string name="zebra">zebra</string>
+    //desc char
+    <string name="desc_anjing">Ini anjing.</string>
+    <string name="desc_ayam">Ini ayam</string>
+    <string name="desc_beruang">Ini beruang</string>
+    <string name="desc_harimau">Ini harimau</string>
+    <string name="desc_jerava">Ini jerava</string>
+    <string name="desc_kucing">Ini Kucing</string>
+    <string name="desc_landak">Ini landak</string>
+    <string name="desc_lumba">Ini lumba</string>
+    <string name="desc_monyet">Ini monyet</string>
+    <string name="desc_zebra">Ini zebra</string>
+    //profile
+    <string name="reval">reval realdi</string>
+    <string name="desc_reval">NIM : 2010031806033  E-Mail : revalrealdi@gmail.com</string>
+</resources>
+
